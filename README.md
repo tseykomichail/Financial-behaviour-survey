@@ -1,7 +1,7 @@
 # Financial-behaviour-survey
 Исследование финансового поведения(для диплома)
 Ссылка на опросник:
-
+https://github.com/tseykomichail/Financial-behaviour-survey/blob/main/hse_2018_fin.pdf
 Ссылки на датасеты:
 
 Ссылка на исследование:
